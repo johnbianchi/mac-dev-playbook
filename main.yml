@@ -1,6 +1,5 @@
 ---
 - hosts: localhost
-  user: philippschreiber
   connection: local
 
   vars_files:
